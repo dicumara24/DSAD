@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29ecff61-a517-4aef-bac4-8676fc561388" name="Changes" comment="Rezolvat Cerinta 1 - Incarcare date">
-      <change afterPath="$PROJECT_DIR$/data_in/winequality-red.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_in/winequality-red.csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functii_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29ecff61-a517-4aef-bac4-8676fc561388" name="Changes" comment="Seminar 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,20 +18,83 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DAM" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dicumara24"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dicumara24&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dicumara24/DSAD.git",
-    "accountId": "d0a4b38e-24a2-478a-a93d-1d6d3252c75e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dicumara24/DSAD.git&quot;,
+    &quot;accountId&quot;: &quot;d0a4b38e-24a2-478a-a93d-1d6d3252c75e&quot;
   }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000038839394" />
+      <entry key="S30" value="1.0039587874207694" />
+      <entry key="S60" value="1.125829114460783" />
+      <entry key="M2" value="1.709435700959034" />
+      <entry key="M5" value="3.0026239208134524" />
+      <entry key="M10" value="3.830279938725525" />
+      <entry key="M15" value="4.176187936665601" />
+      <entry key="M30" value="4.564372284163197" />
+      <entry key="H1" value="4.775908974648784" />
+      <entry key="H2" value="4.886339634211139" />
+      <entry key="H4" value="4.942760263982029" />
+      <entry key="D1" value="4.990402659074844" />
+      <entry key="W1" value="4.998627539351421" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7422617853145246" />
+      <entry key="MS500" value="0.9421312739048088" />
+      <entry key="S2" value="0.9852078307492012" />
+      <entry key="S5" value="0.9940566661484671" />
+      <entry key="S10" value="0.9970239083809839" />
+      <entry key="S30" value="1.002964002133867" />
+      <entry key="S60" value="1.1253040830282106" />
+      <entry key="M2" value="1.709106859468867" />
+      <entry key="M5" value="3.0024333887771113" />
+      <entry key="M10" value="3.8301657585579774" />
+      <entry key="M15" value="4.1761065430062825" />
+      <entry key="M30" value="4.564328627242703" />
+      <entry key="H1" value="4.775886339440641" />
+      <entry key="H2" value="4.886328106001574" />
+      <entry key="H4" value="4.942754446072946" />
+      <entry key="D1" value="4.990401681850831" />
+      <entry key="W1" value="4.99862739956123" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
 }]]></component>
+  <component name="ProjectId" id="3MNyBX1n2y36SKMGuOc4WUZYMm1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,11 +103,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
+    "Python.main_task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Mara/Desktop/DSAD/data_in",
+    "last_opened_file_path": "C:/Users/Mara/Desktop/DSAD/Task_Industria/data_in",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,10 +119,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mara\Desktop\DSAD\Task_Industria\data_in" />
       <recent name="C:\Users\Mara\Desktop\DSAD\data_in" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main_task2">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DSAD" />
       <option name="ENV_FILES" value="" />
@@ -90,8 +149,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\Desktop\DSAD\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_Industria" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="RUN_AS_SCRIPT" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_Industria/main_task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_task2" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -110,7 +196,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1795131297647</updated>
-      <workItem from="1795131299154" duration="1998000" />
+      <workItem from="1795131299154" duration="2978000" />
+      <workItem from="1795205187720" duration="783000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit - setup proiect">
       <option name="closed" value="true" />
@@ -128,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795131849564</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Seminar 2">
+      <option name="closed" value="true" />
+      <created>1795133408140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1795133408140</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,9 +232,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit - setup proiect" />
     <MESSAGE value="Rezolvat Cerinta 1 - Incarcare date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rezolvat Cerinta 1 - Incarcare date" />
+    <MESSAGE value="Seminar 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DSAD$main.coverage" NAME="main Coverage Results" MODIFIED="1795133260781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSAD$main.coverage" NAME="main Coverage Results" MODIFIED="1795133303957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DSAD$main_task2.coverage" NAME="main_task2 Coverage Results" MODIFIED="1795205660839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task_Industria" />
   </component>
 </project>
